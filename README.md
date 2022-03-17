@@ -1,7 +1,7 @@
 # Product-Landing-Page
 Personal Project built from a user story (built with HTML - CSS for practice)
 
-See it live:
+See it live: https://vibrant-perlman-083127.netlify.app/
 
 --- USER STORY ---
 
