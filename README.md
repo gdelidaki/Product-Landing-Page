@@ -4,6 +4,7 @@ Personal Project built from a user story (built with HTML - CSS for practice)
 See it live: https://vibrant-perlman-083127.netlify.app/
 
 Includes: 
+
 -Navigation bar links & Submit button have hover transitions
 
 -Clicking on each navigation bar link gets you to corresponding site section accounting for the size of the navigation bar
@@ -11,7 +12,10 @@ Includes:
 -Form data (email) is retrieved and stored
 
 -Font-awesome icons
-
+-
+-
+-
+-
 Used the below USER STORY as a guideline:
 
 --- USER STORY ---
