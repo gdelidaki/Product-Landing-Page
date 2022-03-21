@@ -12,10 +12,8 @@ Includes:
 -Form data (email) is retrieved and stored
 
 -Font-awesome icons
--
--
--
--
+
+
 Used the below USER STORY as a guideline:
 
 --- USER STORY ---
